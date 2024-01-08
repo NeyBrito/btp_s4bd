@@ -1,0 +1,8 @@
+{
+  "HanaApp_WORKER3_REMOTE_SYN": {
+    "target": {
+      "object": "WORKER3_REMOTE",
+      "schema": "DBADMIN"
+    }
+  }
+}
